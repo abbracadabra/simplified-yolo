@@ -12,7 +12,7 @@ sess = tf.Session()
 saver = tf.train.Saver()
 saver.restore(sess,model_path)
 
-im,nw,nh = preparetest(r'D:\Users\yl_gong\Desktop\dl\voc\VOC2012\JPEGImages\2007_005878.jpg',224)
+im,nw,nh = preparetest(r'D:\Users\yl_gong\Desktop\dl\voc\VOC2012\JPEGImages\2008_001420.jpg',224)
 vgg16 = keras.applications.vgg16.VGG16(include_top=False, weights='imagenet', input_tensor=None, input_shape=None, pooling=None)
 _inp = vgg16.predict(keras.applications.vgg16.preprocess_input(np.array([im])),batch_size=1)
 _xy,_wh,_obj,_cls = sess.run([xy,wh,obj,cls],feed_dict={detector_inp:_inp})

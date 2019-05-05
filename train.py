@@ -2,23 +2,23 @@ from config import *
 from model import *
 from util import *
 from tensorflow import keras
+from scipy import stats
 
-saver = tf.train.Saver()
-
-optimizer = tf.train.AdamOptimizer(learning_rate=0.0001)
+saver = tf.train.Saver(var_list=tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES))
+optimizer = tf.train.AdamOptimizer(learning_rate=0.001)
 gvs = optimizer.compute_gradients(allerr)
 capped_gvs = [(tf.clip_by_value(grad, -1., 1.) if grad!=None else None , var)  for grad, var in gvs]
 ops = optimizer.apply_gradients(capped_gvs)
 sess = tf.Session()
 sess.run(tf.global_variables_initializer())
-saver.restore(sess,model_path)
+#saver.restore(sess,model_path)
 
 vgg16 = keras.applications.vgg16.VGG16(include_top=False, weights='imagenet', input_tensor=None, input_shape=None, pooling=None)
 
 for i in range(epochs):
     for j, (ims,_xy,_wh,_obj,_cls) in enumerate(getbatch()):
         _inp = vgg16.predict(keras.applications.vgg16.preprocess_input(ims),batch_size=len(ims))
-        _x,_t,_err,_log,_ = sess.run([wh,detector_out,allerr,log_all,ops],feed_dict={detector_inp:_inp,
+        _x,_err,_log,_ = sess.run([obj_t,allerr,log_all,ops],feed_dict={detector_inp:_inp,
                                          xy_t:_xy,
                                          wh_t:_wh,
                                          obj_t:_obj,
