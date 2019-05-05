@@ -2,298 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="059cb216-f2ec-4fe3-b432-2e31818a0c73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/events.out.tfevents.1556689482.DST70079" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/evaluate.py" beforeDir="false" afterPath="$PROJECT_DIR$/evaluate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gg.py" beforeDir="false" afterPath="$PROJECT_DIR$/gg.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556264967.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556296710.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556296741.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556296943.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556297038.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556297504.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556346118.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556346244.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556346664.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556346850.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556346889.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556346929.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556346959.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347020.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347113.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347217.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347286.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347338.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347365.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347626.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347693.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347716.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347747.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347773.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347782.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347791.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556347816.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556348042.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556348727.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556350310.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556350346.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556350361.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556350614.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556350935.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556350958.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556351003.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556351070.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556351113.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556351137.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556351469.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556372227.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556373694.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374034.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374053.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374077.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374091.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374107.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374121.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374150.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374216.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374319.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374363.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556374445.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556378716.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556379563.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556379583.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556379595.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556379619.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556379660.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556379719.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556380021.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556380314.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556380600.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556380646.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556411098.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556422902.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423389.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423547.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423579.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423654.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423686.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423703.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423817.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423860.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423930.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556423957.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556424099.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556424140.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556424201.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556424254.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556424424.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556424668.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556424796.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556424991.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556425095.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556425254.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556425279.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556425429.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556425455.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556425547.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556425707.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556428477.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556429732.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556429748.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556430658.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556431063.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556431602.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556431750.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556432434.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556432678.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556433326.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556433422.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556433699.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556433917.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556434125.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556434379.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556434493.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556434678.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556434751.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556434802.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556434878.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556435287.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556435736.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556435907.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556436053.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556436152.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556436442.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556436526.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556436653.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556436674.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556436792.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556436869.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556436893.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556437133.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556437270.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556437415.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556437585.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556437769.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556451750.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556451769.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556453041.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556453143.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556453271.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454003.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454016.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454072.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454125.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454152.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454221.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454266.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454323.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454390.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454465.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454494.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454540.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454554.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454570.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454585.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454594.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454606.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454618.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454633.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454647.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454664.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454678.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454691.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454705.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454717.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454728.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454740.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454757.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454770.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454793.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454805.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454825.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454836.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454848.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454859.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454871.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454885.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454897.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556454924.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455153.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455166.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455191.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455213.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455260.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455280.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455295.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455315.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455335.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455350.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455426.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455493.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455518.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455537.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455555.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455574.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455593.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455621.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455640.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455658.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455672.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455698.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455716.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455729.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455755.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455771.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455830.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455862.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455874.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455888.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455904.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455923.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455948.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455968.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556455979.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556456003.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556456025.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556456043.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556456076.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556456093.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556456450.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556456575.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556456685.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556456743.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556457007.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556457069.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556477661.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556498118.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503314.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503338.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503363.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503399.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503490.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503538.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503631.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503661.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503690.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503736.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503770.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503796.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556503827.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556504500.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556504538.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556504557.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556504615.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556504636.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556504670.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556504824.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556508675.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513361.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513427.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513465.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513497.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513517.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513532.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513556.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513584.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513601.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513630.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513646.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513672.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513707.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513721.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513758.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513806.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513823.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513838.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556513854.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514096.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514198.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514556.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514587.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514666.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514692.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514725.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514760.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514788.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514807.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514824.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514854.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514871.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514923.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514948.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556514971.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556515374.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556515424.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556515455.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556516478.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556517884.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/log/events.out.tfevents.1556518166.DST70079" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdl/mdl.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/mdl/mdl.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdl/mdl.index" beforeDir="false" afterPath="$PROJECT_DIR$/mdl/mdl.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdl/mdl.meta" beforeDir="false" afterPath="$PROJECT_DIR$/mdl/mdl.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -314,21 +24,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="gitignore" value="1" />
           <entry key="py" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="PLAIN_TEXT" value="1" />
           <entry key="Python" value="109" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="gitignore" value="2" />
           <entry key="py" value="5615" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="5615" />
         </counts>
       </usages-collector>
@@ -394,14 +108,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state relative-caret-position="413">
+              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -439,6 +162,7 @@
         <option value="$PROJECT_DIR$/gg.py" />
         <option value="$PROJECT_DIR$/train.py" />
         <option value="$PROJECT_DIR$/model.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -468,6 +192,11 @@
               <item name="seriousyolo" type="462c0819:PsiDirectoryNode" />
               <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="seriousyolo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seriousyolo" type="462c0819:PsiDirectoryNode" />
+              <item name="mdl" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -487,9 +216,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\yl_gong\PycharmProjects\seriousyolo" />
       <recent name="D:\Users\yl_gong\PycharmProjects\seriousyolo\mdl" />
       <recent name="D:\Users\yl_gong\PycharmProjects\seriousyolo\log" />
-      <recent name="D:\Users\yl_gong\PycharmProjects\seriousyolo" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -986,11 +715,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="413">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="11" lean-forward="true" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
